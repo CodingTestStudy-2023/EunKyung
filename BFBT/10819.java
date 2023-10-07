@@ -5,7 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-/* 시간복잡도 : O(n!) */
+// 시간복잡도 : O(n!)
+// 메모리 : 14788kb
+// 시간 : 152ms
 
 public class B_10819 {
 
