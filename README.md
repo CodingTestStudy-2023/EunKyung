@@ -1,7 +1,7 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Coster97&fontSize=50" />
+  
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 <br>
 <br>
 
