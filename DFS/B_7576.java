@@ -47,7 +47,7 @@ public class B_7576 {
         System.out.println(bfs());
     }
 
-    private static int bfs() {
+    static int bfs() {
         while (!queue.isEmpty()){
             PointXYZ point = queue.poll();
 
@@ -87,7 +87,7 @@ public class B_7576 {
         else return (result - 1);
     }
 
-    private static boolean checkPoint(int height, int row, int col){
+    static boolean checkPoint(int height, int row, int col){
         // 주어진 범위 밖인지 검사
         if(height < 1 || height > h || row < 1 || row > n || col < 1 || col > m) return false;
         // 아직 익지 않은 토마토라면 true 반환
