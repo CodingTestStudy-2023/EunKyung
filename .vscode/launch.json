@@ -1,0 +1,126 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "B_10819",
+            "request": "launch",
+            "mainClass": "BFBT.B_10819",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_14889",
+            "request": "launch",
+            "mainClass": "BFBT.B_14889",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_2661",
+            "request": "launch",
+            "mainClass": "BFBT.B_2661",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_2798",
+            "request": "launch",
+            "mainClass": "BFBT.B_2798",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_11725",
+            "request": "launch",
+            "mainClass": "BFS.B_11725",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_1012",
+            "request": "launch",
+            "mainClass": "DFS.B_1012",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_10451",
+            "request": "launch",
+            "mainClass": "DFS.B_10451",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_1574",
+            "request": "launch",
+            "mainClass": "DFS.B_1574",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_2178",
+            "request": "launch",
+            "mainClass": "DFS.B_2178",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_24480",
+            "request": "launch",
+            "mainClass": "DFS.B_24480",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_2606",
+            "request": "launch",
+            "mainClass": "DFS.B_2606",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_7576",
+            "request": "launch",
+            "mainClass": "DFS.B_7576",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_11399",
+            "request": "launch",
+            "mainClass": "Greedy.B_11399",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_13305",
+            "request": "launch",
+            "mainClass": "Greedy.B_13305",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_1946",
+            "request": "launch",
+            "mainClass": "Greedy.B_1946",
+            "projectName": "cotestudy_6b6bea82"
+        },
+        {
+            "type": "java",
+            "name": "B_11053",
+            "request": "launch",
+            "mainClass": "LIS.B_11053",
+            "projectName": "cotestudy_6b6bea82"
+        }
+    ]
+}
